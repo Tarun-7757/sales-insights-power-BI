@@ -23,10 +23,10 @@ This project focuses on analyzing sales data to extract meaningful business insi
 ## 📷 Dashboard Preview
 
 ### 🔹 Desktop Dashboard View
-![Web Dashboard](web-dashboard.png)
+![Web Dashboard](images/web-dashboard.png)
 
 ### 🔹 Mobile Dashboard View
-![Mobile Dashboard](mobile-dashboard.jpeg)
+![Mobile Dashboard](images/mobile-dashboard.jpeg)
 
 ---
 
