@@ -26,7 +26,7 @@ This project focuses on analyzing sales data to extract meaningful business insi
 ![Web Dashboard](images/web-dashboard.png)
 
 ### 🔹 Mobile Dashboard View
-![Mobile Dashboard](images/mobile-dashboard.jpeg)
+![Mobile Dashboard](images/mobile-dashboard.png)
 
 ---
 
@@ -45,6 +45,7 @@ The dataset is provided as an SQL file containing sales transactions, customer d
 
 ## 📌 Outcome
 Developed an interactive dashboard to analyze sales performance, identify key revenue drivers, and support data-driven decision-making.
+- Improved understanding of business performance by analyzing key revenue drivers and customer segments
 
 ---
 
